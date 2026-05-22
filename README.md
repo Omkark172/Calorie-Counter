@@ -12,9 +12,7 @@ AI-powered food calorie analyzer — upload any dish photo and get instant calor
 
 ## Setup
 
-### 1. Get Free API Key
-Visit: https://aistudio.google.com/app/apikey
-Sign in with Google → Create API Key → Copy it
+### 1.
 
 ### 2. Install
 ```bash
